@@ -6,15 +6,7 @@ string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
 
-/*
- * Complete the 'twoStrings' function below.
- *
- * The function is expected to return a STRING_ARRAY.
- * The function accepts following parameters:
- *  1. LONG_INTEGER k
- *  2. STRING a
- *  3. STRING b
- */
+
 
 vector<string> twoStrings(long k, string a, string b) {
 
